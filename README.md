@@ -1,6 +1,8 @@
 
 <div align=center>
-  ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=KimHyeIn%20&fontSize=90)
+ 
+   ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=KimHyeIn%20&fontSize=90)
+  
   <h3>🙌Introduction</h3>
   <p>안녕하세요! 프론트엔드 독학 9개월차 공부하는 학생 입니다. <br/>
    프론트와 백엔드 모두 관심이 있는 열정 가득한 신입개발자 입니다 :) <br/>저의 git-hup에 방문해 주셔서 감사합니다 
