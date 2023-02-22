@@ -23,25 +23,30 @@
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
       <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white"/>
   </div>
-    
+    <br>
  <div align=center>
     <p> 🛠 Tools 🛠 </p>
   </div>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
   <br>
-  
+  <br>
   <div>
     <p> 🎨 SNS & Portfolio 🎨</p>
   </div>
-  
 <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mail-03C75A?style=flat&logo=Gmail&logoColor=white"/> 
 <img src="https://img.shields.io/badge/portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white"/> 
 
+<br>
+  <br>
+  
+<div>
+  <h4> 💪 Problem Solving 💪</h4>
+  </div>
+  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj={tkrkr55})](https://solved.ac/{tkrkr55})
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkrkr55&layout=compact)](https://github.com/tkrkr55/github-readme-stats)
 
