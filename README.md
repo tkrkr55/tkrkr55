@@ -29,7 +29,7 @@
  <div align=center>
     <p> 🛠 Tools 🛠 </p>
   </div>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+ <a href="https://github.com/tkrkr55"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> </a>
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
   <br>
   <br>
