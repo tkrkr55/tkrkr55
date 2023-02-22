@@ -9,7 +9,7 @@
    <div align="center">
      <div>
        <h3> 👀 Tech Stack </h3>
-     ✨Platforms & Languages✨<br/>
+     ✨ront end & Languages✨<br/>
        <br>
      </div>
       <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
