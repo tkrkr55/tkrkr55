@@ -36,7 +36,8 @@
   <div>
     <p> 🎨 SNS & Portfolio 🎨</p>
   </div>
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
+<a href="https://hyeru.tistory.com/" ><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
+
 <img src="https://img.shields.io/badge/Mail-03C75A?style=flat&logo=Gmail&logoColor=white"/> 
 <img src="https://img.shields.io/badge/portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white"/> 
 
