@@ -48,8 +48,7 @@
   <h4> 💪 Problem Solving 💪</h4>
   </div>
   
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={tkrkr55})](https://solved.ac/{tkrkr55})
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkrkr55&layout=compact)](https://github.com/tkrkr55/github-readme-stats)
 
