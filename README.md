@@ -19,7 +19,7 @@
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
       <img src="https://img.shields.io/badge/Mysql-61DAFB?style=flat&logo=Mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PHP-61DAFB?style=flat&logo=PHP&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PHP-7952B3?style=flat&logo=PHP&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-61DAFB?style=flat&logo=TypeScript&logoColor=white"/>
      <br/>
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
